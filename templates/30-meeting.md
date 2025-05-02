@@ -17,11 +17,11 @@ const formatText = (text) => {
 };
 
 // 최종 파일명 생성
-const filename = `미팅-${today}-${formatText(meetingTitle)}`;
+const filename = `meet-${today}-${formatText(meetingTitle)}`;
 
 // 파일 이름 변경 후 이동
 await tp.file.rename(filename);
-await tp.file.move("/90-Logs/" + filename);
+await tp.file.move("/90-Logs/Meet/" + filename);
 
 // 프론트매터와 기본 내용 생성
 tR = `---
@@ -33,11 +33,6 @@ type: meeting-note
 ---
 
 # 🤝 ${meetingTitle} 미팅
-
-## ℹ️ 기본 정보
-- 일시: ${displayDate}
-- 장소: 
-- 참석자: 
 
 ## 📝 메모
 `

@@ -1,3 +1,11 @@
+---
+title: 개요
+date: 2025-05-03
+created: 20250503000728
+tags: [gmh]
+idea: gmh
+hierarchy: a
+---
 
 # 주요 활동 목록
 ## 1. 지식 쌓기, 정리 정돈

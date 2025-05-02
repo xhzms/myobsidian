@@ -1,7 +1,7 @@
 <%*
-// Fleeting 폴더의 파일 목록에서 어미단어 추출
+// Drafts 폴더의 파일 목록에서 어미단어 추출
 const fleetingFiles = app.vault.getFiles()
-    .filter(file => file.path.startsWith('20-Fleeting/'))
+    .filter(file => file.path.startsWith('20-Drafts/'))
     .map(file => file.basename.split('-')[0]);
 
 // 중복 제거하여 고유한 어미단어 목록 생성
@@ -60,7 +60,7 @@ const filename = `${formatText(ideaName)}-${hierarchy}-${formatText(subtitle)}`;
 
 // 파일 이름 변경 후 이동
 await tp.file.rename(filename);
-await tp.file.move("/20-Fleeting/" + filename);
+await tp.file.move("/20-Drafts/" + filename);
 
 // 프론트매터와 기본 내용 생성
 tR = `---
@@ -71,7 +71,6 @@ tags: [${ideaName}]
 idea: ${ideaName}
 hierarchy: ${hierarchy}
 ---
-
 * 
 * 
 * 
