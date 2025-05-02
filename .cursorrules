@@ -1,0 +1,26 @@
+{
+  "markdown": {
+    "formatting": {
+      "maxLineLength": 120,
+      "trailingWhitespace": "remove",
+      "endOfLine": "lf"
+    },
+    "linting": {
+      "noDuplicateHeadings": true,
+      "noMissingHeadings": true,
+      "noTrailingPunctuation": true,
+      "properLinkFormat": true
+    },
+    "zettelkasten": {
+      "noteIdFormat": "^\\d{14}$",
+      "requiredFrontmatter": ["title", "date", "tags"],
+      "tagFormat": "^#[a-z0-9-]+$"
+    }
+  },
+  "fileNaming": {
+    "pattern": "^\\d{14}-[a-z0-9-]+\\.md$",
+    "case": "lowercase"
+  },
+  "autoSave": true,
+  "defaultLanguage": "markdown"
+}
