@@ -21,7 +21,7 @@ tags: #moc #drafts
 - [[keyword-a-개요]]
 
 ### Timeseller
-- [[timeseller-where-홍보]]
+- [[timeseller-a-홍보]]
 
 
 ### Confirmer
