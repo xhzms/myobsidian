@@ -1,9 +1,9 @@
 ---
-title: 개요
-date: 2025-05-03
+title: Verifier 개요
+date: 2024-05-02
 created: 20250503001918
-tags: [confirmer]
-idea: confirmer
+tags: [verifier]
+idea: verifier
 hierarchy: a
 ---
 # **확증자와 실재: 믿음이 진리를 결정하는가?**

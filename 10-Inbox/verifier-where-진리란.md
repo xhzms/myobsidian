@@ -1,9 +1,9 @@
 ---
-title: 진리란
-date: 2025-05-03
+title: Verifier 진리란
+date: 2024-05-02
 created: 20250503004020
-tags: [confirmer]
-idea: confirmer
+tags: [verifier]
+idea: verifier
 hierarchy: where
 ---
 * 진리는 개념이 아니라 존재이다
