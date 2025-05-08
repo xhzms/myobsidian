@@ -13,7 +13,7 @@ tags: #moc #drafts
 - [[gmh-a-개요]]
 
 ### Marketing
-- [[marketing-where-후킹]]
+- [[marketing-zzz-후킹]]
 ### Keyword
 - [[keyword-a-개요]]
 

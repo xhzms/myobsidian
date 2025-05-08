@@ -6,5 +6,4 @@ tags: [obsidian]
 idea: obsidian
 hierarchy: where
 ---
-
 * 설정-파일 및 링크-항상 업데이트 되는 내부 링크

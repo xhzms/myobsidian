@@ -2,9 +2,10 @@
 title: Verifier 나라는 존재는 믿음이 구성한다
 date: 2024-05-02
 created: 20250503181443
-tags: [verifier]
+tags:
+  - verifier
 idea: verifier
-hierarchy: where
+hierarchy: aaa
 ---
 * 존재를 구성하는건 무엇을 믿고 있느냐가 결정한다?
 * 아직은 막연한 개념
