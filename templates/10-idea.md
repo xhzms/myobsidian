@@ -58,9 +58,12 @@ const formatText = (text) => {
 // 최종 파일명 생성
 const filename = `${formatText(ideaName)}-${hierarchy}-${formatText(subtitle)}`;
 
+// 계층값에 따라 이동할 폴더 결정
+const targetFolder = hierarchy === 'where' ? '10-Inbox' : '20-Drafts';
+
 // 파일 이름 변경 후 이동
 await tp.file.rename(filename);
-await tp.file.move("/20-Drafts/" + filename);
+await tp.file.move(`/${targetFolder}/` + filename);
 
 // 프론트매터와 기본 내용 생성
 tR = `---
@@ -75,4 +78,21 @@ hierarchy: ${hierarchy}
 * 
 * 
 `
+
+// Drafts MOC에 새로운 링크 추가
+const mocFile = app.vault.getAbstractFileByPath("00-Map_Of_Contents/Drafts.md");
+if (mocFile) {
+    const mocContent = await app.vault.read(mocFile);
+    const newLink = `- [[${filename}]]`;
+    
+    // 주제별 초입점 섹션 찾기
+    const sectionIndex = mocContent.indexOf("## 주제별 초입점");
+    if (sectionIndex !== -1) {
+        // 새로운 링크를 주제별 초입점 섹션 바로 다음 줄에 추가
+        const updatedContent = mocContent.slice(0, sectionIndex + "## 주제별 초입점".length) + 
+                             "\n\n" + newLink + 
+                             mocContent.slice(sectionIndex + "## 주제별 초입점".length);
+        await app.vault.modify(mocFile, updatedContent);
+    }
+}
 _%>
