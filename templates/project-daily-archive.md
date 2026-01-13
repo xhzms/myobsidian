@@ -1,15 +1,43 @@
+---
+updated: 2026-01-13 10:38
+---
 <%*
 // 수동 아카이빙 템플릿
 // 완료 항목([x])과 하위 내용을 logs로 이동
 
 const projectPath = "50-Project/51_Moduda";
-const logsPath = projectPath + "/logs";
+const logsPath = projectPath + "/working_logs";
 const today = tp.date.now("YYYY-MM-DD");
+
+// 스크립트 시작 시 템플릿으로 생성된 파일 저장
+const templateCreatedFile = tp.config.target_file;
+console.log("templateCreatedFile:", templateCreatedFile?.path);
+
+// 템플릿으로 생성된 임시 파일 삭제 함수
+// Templater는 템플릿 실행 시 새 파일(Untitled)을 생성함
+// 스크립트 종료 직후 Templater가 해당 파일에 다시 접근하므로,
+// 딜레이 후 삭제해야 충돌을 피할 수 있음 (500ms 미만이면 에러 발생)
+function scheduleCleanup() {
+    if (templateCreatedFile) {
+        setTimeout(async () => {
+            try {
+                const file = app.vault.getAbstractFileByPath(templateCreatedFile.path);
+                if (file) {
+                    await app.fileManager.trashFile(file);
+                    console.log("cleanup success: deleted", templateCreatedFile.path);
+                }
+            } catch (err) {
+                console.log("cleanup error:", err);
+            }
+        }, 500);
+    }
+}
 
 try {
     const currentFile = tp.file.find_tfile(projectPath + "/_current");
     if (!currentFile) {
         new Notice("⚠️ _current.md 파일을 찾을 수 없습니다.");
+        scheduleCleanup();
         return;
     }
 
@@ -19,6 +47,7 @@ try {
     const workingSection = content.split("# 🔥 작업 중")[1];
     if (!workingSection) {
         new Notice("⚠️ '작업 중' 섹션을 찾을 수 없습니다.");
+        scheduleCleanup();
         return;
     }
 
@@ -59,6 +88,7 @@ try {
     // 완료 항목이 없으면 알림
     if (completed.length === 0) {
         new Notice("ℹ️ 완료된 항목이 없습니다.");
+        scheduleCleanup();
         return;
     }
 
@@ -103,9 +133,11 @@ ${remaining.length > 0 ? remaining.join("\n") : ""}
     await app.vault.modify(currentFile, newCurrentContent);
 
     new Notice("✅ " + completed.filter(l => l.match(/^- \[x\]/i)).length + "개 완료 항목이 logs/" + today + ".md로 이동됨");
+    scheduleCleanup();
 
 } catch (e) {
     new Notice("❌ 오류: " + e.message);
     console.log("Archive error: " + e.message);
+    scheduleCleanup();
 }
 _%>
