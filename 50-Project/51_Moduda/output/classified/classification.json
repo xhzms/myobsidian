@@ -1,0 +1,1410 @@
+[
+  {
+    "filename": "0c8e7e3ed164.svg",
+    "category": "hero",
+    "confidence": "high",
+    "reasons": [
+      "context: hero"
+    ]
+  },
+  {
+    "filename": "ce32d8b05394.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 536x536, medium"
+    ]
+  },
+  {
+    "filename": "0fcc2a68164c.png",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "f19ac638cbe3.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 70x15 (small)"
+    ]
+  },
+  {
+    "filename": "8bbe95d05d72.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 320x234, medium"
+    ]
+  },
+  {
+    "filename": "cf0dea0a891f.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 11x11 (small)"
+    ]
+  },
+  {
+    "filename": "0c2341b17465.png",
+    "category": "product",
+    "confidence": "high",
+    "reasons": [
+      "context: product"
+    ]
+  },
+  {
+    "filename": "ab3650606d2b.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 249x250, medium"
+    ]
+  },
+  {
+    "filename": "73014cf0a0f5.gif",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "e002a738b77a.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 176x30 (small)"
+    ]
+  },
+  {
+    "filename": "c70b82231528.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 300x300, medium"
+    ]
+  },
+  {
+    "filename": "21953734a7bd.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 66x58 (small)"
+    ]
+  },
+  {
+    "filename": "4bfb25647aad.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 500x500, medium"
+    ]
+  },
+  {
+    "filename": "4cc043c3ec13.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 320x234, medium"
+    ]
+  },
+  {
+    "filename": "7b5835533d42.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 508x302, medium"
+    ]
+  },
+  {
+    "filename": "419dffb175ba.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 508x302, medium"
+    ]
+  },
+  {
+    "filename": "7cefa1c133ad.png",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 13x14 (small)"
+    ]
+  },
+  {
+    "filename": "0e59a4df316b.svg",
+    "category": "hero",
+    "confidence": "high",
+    "reasons": [
+      "context: hero"
+    ]
+  },
+  {
+    "filename": "f0c3c3067fd3.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 12x12 (small)"
+    ]
+  },
+  {
+    "filename": "9def690ee58b.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 536x536, medium"
+    ]
+  },
+  {
+    "filename": "2fc0a0aede07.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 536x536, medium"
+    ]
+  },
+  {
+    "filename": "d2688df90009.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 320x234, medium"
+    ]
+  },
+  {
+    "filename": "ac0e44eb3449.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 320x234, medium"
+    ]
+  },
+  {
+    "filename": "2a02f125ddb7.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 13x13 (small)"
+    ]
+  },
+  {
+    "filename": "30ec3a2a3be8.svg",
+    "category": "hero",
+    "confidence": "high",
+    "reasons": [
+      "context: hero"
+    ]
+  },
+  {
+    "filename": "34807d119582.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 545x363, medium"
+    ]
+  },
+  {
+    "filename": "6e6bfe575996.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 640x510, medium"
+    ]
+  },
+  {
+    "filename": "cc37a0a23728.svg",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "972c57de6ac4.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 176x30 (small)"
+    ]
+  },
+  {
+    "filename": "a9bce87dda34.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 536x536, medium"
+    ]
+  },
+  {
+    "filename": "75a9e557d725.png",
+    "category": "product",
+    "confidence": "high",
+    "reasons": [
+      "context: product"
+    ]
+  },
+  {
+    "filename": "eb2d255544ca.png",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "6693467d13ce.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 116x126 (small)"
+    ]
+  },
+  {
+    "filename": "7efab54e3bae.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 640x510, medium"
+    ]
+  },
+  {
+    "filename": "4c0b1885537c.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 58x58 (small)"
+    ]
+  },
+  {
+    "filename": "0fd8f4c32976.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 320x234, medium"
+    ]
+  },
+  {
+    "filename": "0a2074e8af04.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 272x325, medium"
+    ]
+  },
+  {
+    "filename": "bfa1bfde4465.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 24x24 (small)"
+    ]
+  },
+  {
+    "filename": "bf4010902be3.png",
+    "category": "product",
+    "confidence": "high",
+    "reasons": [
+      "context: product"
+    ]
+  },
+  {
+    "filename": "bbc13614b8a1.png",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 58x58 (small)"
+    ]
+  },
+  {
+    "filename": "b7237aa0cd5b.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 500x500, medium"
+    ]
+  },
+  {
+    "filename": "a4fd5fb193e8.svg",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "1bc3b04454c6.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 500x500, medium"
+    ]
+  },
+  {
+    "filename": "d77822f39487.png",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "8cf656682aaf.svg",
+    "category": "hero",
+    "confidence": "high",
+    "reasons": [
+      "context: hero"
+    ]
+  },
+  {
+    "filename": "817475c91d5e.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 760x530, medium"
+    ]
+  },
+  {
+    "filename": "fb288778a325.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 176x30 (small)"
+    ]
+  },
+  {
+    "filename": "1a6c63e6cd80.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 23x16 (small)"
+    ]
+  },
+  {
+    "filename": "ef8dbf13562b.gif",
+    "category": "social",
+    "confidence": "high",
+    "reasons": [
+      "keyword: og"
+    ]
+  },
+  {
+    "filename": "a6c88eaf507f.png",
+    "category": "product",
+    "confidence": "high",
+    "reasons": [
+      "context: product"
+    ]
+  },
+  {
+    "filename": "9f8c6e7438f6.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 17x17 (small)"
+    ]
+  },
+  {
+    "filename": "448650b08b48.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 30x30 (small)"
+    ]
+  },
+  {
+    "filename": "a0013134b6a9.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 86x18 (small)"
+    ]
+  },
+  {
+    "filename": "c9ae408e38c1.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 644x430, medium"
+    ]
+  },
+  {
+    "filename": "5f61e2fe3067.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 108x108 (small)"
+    ]
+  },
+  {
+    "filename": "4111f50a6e59.jpg",
+    "category": "product",
+    "confidence": "high",
+    "reasons": [
+      "context: product"
+    ]
+  },
+  {
+    "filename": "d3f8a7b3b8db.png",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "ba87fb3ba20a.svg",
+    "category": "product",
+    "confidence": "high",
+    "reasons": [
+      "context: product"
+    ]
+  },
+  {
+    "filename": "c762fdc18a80.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 183x17 (small)"
+    ]
+  },
+  {
+    "filename": "b6a174408020.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 124x124 (small)"
+    ]
+  },
+  {
+    "filename": "8c66ac3fc65f.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 272x325, medium"
+    ]
+  },
+  {
+    "filename": "dd6b49558673.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 59x54 (small)"
+    ]
+  },
+  {
+    "filename": "0dbbcd93c2e7.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 116x118 (small)"
+    ]
+  },
+  {
+    "filename": "b72a6dfa798a.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 250x250, medium"
+    ]
+  },
+  {
+    "filename": "b1cb9a55ce77.png",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 58x58 (small)"
+    ]
+  },
+  {
+    "filename": "e98c2a8cc09d.jpg",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "623f2cbc3eb8.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 272x325, medium"
+    ]
+  },
+  {
+    "filename": "0973f02ec120.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 508x302, medium"
+    ]
+  },
+  {
+    "filename": "1cc6707f4333.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 644x430, medium"
+    ]
+  },
+  {
+    "filename": "9b64ec56f479.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 272x325, medium"
+    ]
+  },
+  {
+    "filename": "e5bf8bb69b72.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 508x508, medium"
+    ]
+  },
+  {
+    "filename": "cf52a8225d82.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 500x500, medium"
+    ]
+  },
+  {
+    "filename": "af4978c4da8d.svg",
+    "category": "hero",
+    "confidence": "high",
+    "reasons": [
+      "context: hero"
+    ]
+  },
+  {
+    "filename": "0ba6bd5a835e.png",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "1aa8a6984c8a.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 760x530, medium"
+    ]
+  },
+  {
+    "filename": "db572e8b26cf.svg",
+    "category": "hero",
+    "confidence": "high",
+    "reasons": [
+      "context: hero"
+    ]
+  },
+  {
+    "filename": "171757c287a0.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 7x7 (small)"
+    ]
+  },
+  {
+    "filename": "a68a336755c7.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 644x430, medium"
+    ]
+  },
+  {
+    "filename": "36f2861c1684.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 508x302, medium"
+    ]
+  },
+  {
+    "filename": "c468991e7512.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 30x30 (small)"
+    ]
+  },
+  {
+    "filename": "e2184d462218.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 508x302, medium"
+    ]
+  },
+  {
+    "filename": "bf3ef58c1abb.svg",
+    "category": "hero",
+    "confidence": "high",
+    "reasons": [
+      "context: hero"
+    ]
+  },
+  {
+    "filename": "0b8160b44e51.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 536x536, medium"
+    ]
+  },
+  {
+    "filename": "6a6c2c8e206b.png",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "bde922a8669b.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 272x325, medium"
+    ]
+  },
+  {
+    "filename": "7759289412c6.svg",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "5f15d0f44f03.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 12x12 (small)"
+    ]
+  },
+  {
+    "filename": "4078258c1c5f.jpg",
+    "category": "hero",
+    "confidence": "high",
+    "reasons": [
+      "context: hero"
+    ]
+  },
+  {
+    "filename": "e63ccd44a6a4.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 88x68 (small)"
+    ]
+  },
+  {
+    "filename": "7221000e1796.svg",
+    "category": "hero",
+    "confidence": "high",
+    "reasons": [
+      "context: hero"
+    ]
+  },
+  {
+    "filename": "b3b6d59a3812.jpg",
+    "category": "product",
+    "confidence": "high",
+    "reasons": [
+      "context: product"
+    ]
+  },
+  {
+    "filename": "087839f98dac.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 250x250, medium"
+    ]
+  },
+  {
+    "filename": "50cbb5bc7fe5.png",
+    "category": "product",
+    "confidence": "high",
+    "reasons": [
+      "context: product"
+    ]
+  },
+  {
+    "filename": "6375845cc6cd.svg",
+    "category": "hero",
+    "confidence": "high",
+    "reasons": [
+      "context: hero"
+    ]
+  },
+  {
+    "filename": "73c35b17a67f.png",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 58x58 (small)"
+    ]
+  },
+  {
+    "filename": "92a41d5eda25.svg",
+    "category": "hero",
+    "confidence": "high",
+    "reasons": [
+      "context: hero"
+    ]
+  },
+  {
+    "filename": "fd4ebeb61e28.gif",
+    "category": "product",
+    "confidence": "high",
+    "reasons": [
+      "context: product"
+    ]
+  },
+  {
+    "filename": "a747bcf13692.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 14x4 (small)"
+    ]
+  },
+  {
+    "filename": "f0a447c234e2.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 176x30 (small)"
+    ]
+  },
+  {
+    "filename": "01618216bd54.png",
+    "category": "product",
+    "confidence": "high",
+    "reasons": [
+      "context: product"
+    ]
+  },
+  {
+    "filename": "e45e07d2855e.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 64x22 (small)"
+    ]
+  },
+  {
+    "filename": "c3ea311237a0.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 30x30 (small)"
+    ]
+  },
+  {
+    "filename": "3fbdb649d5e4.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 67x58 (small)"
+    ]
+  },
+  {
+    "filename": "ad7fca69e2b8.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 266x325, medium"
+    ]
+  },
+  {
+    "filename": "f12e2b475506.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 320x234, medium"
+    ]
+  },
+  {
+    "filename": "55b13fb58f0a.jpg",
+    "category": "product",
+    "confidence": "high",
+    "reasons": [
+      "context: product"
+    ]
+  },
+  {
+    "filename": "62ef7613e9da.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 272x325, medium"
+    ]
+  },
+  {
+    "filename": "1f2e81f2db4e.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 7x11 (small)"
+    ]
+  },
+  {
+    "filename": "363f1f2f9756.png",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "0a82f11fc3c1.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 508x302, medium"
+    ]
+  },
+  {
+    "filename": "bfa00c5e0868.gif",
+    "category": "icon",
+    "confidence": "high",
+    "reasons": [
+      "keyword: icon"
+    ]
+  },
+  {
+    "filename": "4fa50799183a.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 34x34 (small)"
+    ]
+  },
+  {
+    "filename": "7ad5ca3e7640.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 266x325, medium"
+    ]
+  },
+  {
+    "filename": "ec525c93ae78.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 30x30 (small)"
+    ]
+  },
+  {
+    "filename": "383bbf2b7834.png",
+    "category": "product",
+    "confidence": "high",
+    "reasons": [
+      "keyword: product"
+    ]
+  },
+  {
+    "filename": "2c91f8cd0e85.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 30x30 (small)"
+    ]
+  },
+  {
+    "filename": "e159777fce5d.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 335x477, medium"
+    ]
+  },
+  {
+    "filename": "bc7bf8ba5497.svg",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "56d4bccccf65.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 500x500, medium"
+    ]
+  },
+  {
+    "filename": "027c3158ceb6.png",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 99x19 (small)"
+    ]
+  },
+  {
+    "filename": "dcfb3b558bbc.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 176x30 (small)"
+    ]
+  },
+  {
+    "filename": "5dc490c79f0d.svg",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "b149195e92db.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 644x430, medium"
+    ]
+  },
+  {
+    "filename": "851cdc9106a1.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 34x34 (small)"
+    ]
+  },
+  {
+    "filename": "e3f3042e5fd6.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 760x530, medium"
+    ]
+  },
+  {
+    "filename": "76a68509caea.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 508x302, medium"
+    ]
+  },
+  {
+    "filename": "2e37d5bdc504.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 83x80 (small)"
+    ]
+  },
+  {
+    "filename": "0c35051b4ec2.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 536x536, medium"
+    ]
+  },
+  {
+    "filename": "c84bd4b2e897.png",
+    "category": "product",
+    "confidence": "high",
+    "reasons": [
+      "context: product"
+    ]
+  },
+  {
+    "filename": "5a496908c3cb.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 30x30 (small)"
+    ]
+  },
+  {
+    "filename": "e4aeedb7ebfc.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 250x250, medium"
+    ]
+  },
+  {
+    "filename": "c6d473f2225b.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 500x500, medium"
+    ]
+  },
+  {
+    "filename": "23068c601595.png",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "e56a0535276f.png",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "f82b038f0ab2.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 9x9 (small)"
+    ]
+  },
+  {
+    "filename": "51de6efe0f0b.gif",
+    "category": "icon",
+    "confidence": "high",
+    "reasons": [
+      "keyword: icon"
+    ]
+  },
+  {
+    "filename": "8c68800b26cf.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 21x22 (small)"
+    ]
+  },
+  {
+    "filename": "300a8521bea6.png",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 18x18 (small)"
+    ]
+  },
+  {
+    "filename": "c3b2f952d3ce.gif",
+    "category": "social",
+    "confidence": "high",
+    "reasons": [
+      "keyword: facebook"
+    ]
+  },
+  {
+    "filename": "706ab42172be.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 272x325, medium"
+    ]
+  },
+  {
+    "filename": "c6cb97ce4eeb.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 18x21 (small)"
+    ]
+  },
+  {
+    "filename": "ff20f3ad8458.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 18x19 (small)"
+    ]
+  },
+  {
+    "filename": "b2d30010743f.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 500x500, medium"
+    ]
+  },
+  {
+    "filename": "f4992b85732e.png",
+    "category": "product",
+    "confidence": "high",
+    "reasons": [
+      "context: product"
+    ]
+  },
+  {
+    "filename": "074142f360ff.svg",
+    "category": "hero",
+    "confidence": "medium",
+    "reasons": [
+      "size: 1417x634, ratio: 2.24"
+    ]
+  },
+  {
+    "filename": "d0838dab560d.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 508x302, medium"
+    ]
+  },
+  {
+    "filename": "c140a132f15b.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 508x302, medium"
+    ]
+  },
+  {
+    "filename": "20a69be456d1.png",
+    "category": "product",
+    "confidence": "high",
+    "reasons": [
+      "context: product"
+    ]
+  },
+  {
+    "filename": "9fd3c8f2f5e7.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 22x13 (small)"
+    ]
+  },
+  {
+    "filename": "a3bcbd50da0e.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 508x302, medium"
+    ]
+  },
+  {
+    "filename": "320210c5e79b.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 22x13 (small)"
+    ]
+  },
+  {
+    "filename": "aea545dd52f2.png",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 23x24 (small)"
+    ]
+  },
+  {
+    "filename": "5dc8d1be06b7.png",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 20x20 (small)"
+    ]
+  },
+  {
+    "filename": "7ddf83f8ca06.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 508x302, medium"
+    ]
+  },
+  {
+    "filename": "01e4c16f2fa9.gif",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "4c6b3434fdd2.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 30x30 (small)"
+    ]
+  },
+  {
+    "filename": "ec6645f3e196.svg",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "b80a79e91a03.jpg",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "ac02c96d6f09.jpg",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "47ff97f13ea7.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 500x500, medium"
+    ]
+  },
+  {
+    "filename": "594de185ae36.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 500x500, medium"
+    ]
+  },
+  {
+    "filename": "064834ebc8b5.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 8x10 (small)"
+    ]
+  },
+  {
+    "filename": "2976d689abd2.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 9x8 (small)"
+    ]
+  },
+  {
+    "filename": "a8d34992f04d.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 640x510, medium"
+    ]
+  },
+  {
+    "filename": "bccbf1896c59.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 30x30 (small)"
+    ]
+  },
+  {
+    "filename": "a2e0699a21d5.svg",
+    "category": "hero",
+    "confidence": "high",
+    "reasons": [
+      "context: hero"
+    ]
+  },
+  {
+    "filename": "b43c26ab0a0e.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 320x234, medium"
+    ]
+  },
+  {
+    "filename": "198573f4f650.jpg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 250x250, medium"
+    ]
+  },
+  {
+    "filename": "54d5749c22b4.gif",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 70x15 (small)"
+    ]
+  },
+  {
+    "filename": "a6a6f033aefb.jpg",
+    "category": "product",
+    "confidence": "high",
+    "reasons": [
+      "context: product"
+    ]
+  },
+  {
+    "filename": "1ebdbba370fb.png",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "a9b9f59accd1.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 83x80 (small)"
+    ]
+  },
+  {
+    "filename": "82b47dcb8976.png",
+    "category": "misc",
+    "confidence": "low",
+    "reasons": [
+      "no matching rules"
+    ]
+  },
+  {
+    "filename": "c968dcdc4850.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 272x325, medium"
+    ]
+  },
+  {
+    "filename": "ee2f8501c688.svg",
+    "category": "product",
+    "confidence": "medium",
+    "reasons": [
+      "size: 500x500, medium"
+    ]
+  },
+  {
+    "filename": "9927aab22ea1.svg",
+    "category": "icon",
+    "confidence": "medium",
+    "reasons": [
+      "size: 88x68 (small)"
+    ]
+  }
+]

@@ -1,0 +1,4131 @@
+{
+  "common": {
+    "footer": [
+      "CONTACT",
+      "Duda korean",
+      "GO",
+      "KEYWORD",
+      "MESSAGE",
+      "SNS",
+      "WORLD SHIPPING"
+    ],
+    "navigation": []
+  },
+  "unique": {
+    "headlines": [
+      {
+        "tag": "h2",
+        "text": "你的 행복 (幸福) 是什麽？",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h2",
+        "text": "MODUDA KOREAN 致力於推廣全韓語交談的幸福。",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h2",
+        "text": "MODUDA KOREAN 的課程",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h2",
+        "text": "100% 滿意度評論",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h2",
+        "text": "我們會幫助你！",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h2",
+        "text": "更加接近韓國",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h2",
+        "text": "和我們做朋友好嗎？",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h2",
+        "text": "最新商品",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h3",
+        "text": "交談的幸福 ‘MODUDA KOREAN’",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h3",
+        "text": "成就感帶來的幸福",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h3",
+        "text": "全部都是韓語！",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h3",
+        "text": "韓劇、音樂、食物… 都是如此迷人！",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h3",
+        "text": "你現在有了可以一起說韓語的朋友！",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h3",
+        "text": "立即進步",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h3",
+        "text": "你也可以一起說韓語 :)",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h3",
+        "text": "和 MODUDA KOREAN 一起成長。",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h3",
+        "text": "好奇嗎？像問朋友一樣問吧！",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "tag": "h2",
+        "text": "NOTICE",
+        "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+      },
+      {
+        "tag": "h3",
+        "text": "COMMNUNITY",
+        "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+      },
+      {
+        "tag": "h2",
+        "text": "韓文商品頁面",
+        "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+      },
+      {
+        "tag": "h3",
+        "text": "이벤트",
+        "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+      },
+      {
+        "tag": "h3",
+        "text": "商品使用評論",
+        "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+      },
+      {
+        "tag": "h3",
+        "text": "商品 Q&A",
+        "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+      },
+      {
+        "tag": "h2",
+        "text": "LOGIN",
+        "page": "https://modudakorean.com/myshop/wish_list.html"
+      },
+      {
+        "tag": "h2",
+        "text": "下載免費資料",
+        "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+      },
+      {
+        "tag": "h2",
+        "text": "韓國文化課(線下)",
+        "page": "https://modudakorean.com/product/list.html?cate_no=43"
+      },
+      {
+        "tag": "h3",
+        "text": "CURRICULUM",
+        "page": "https://modudakorean.com/product/list.html?cate_no=43"
+      },
+      {
+        "tag": "h2",
+        "text": "ABOUT",
+        "page": "https://modudakorean.com/shopinfo/brand_cn.html"
+      },
+      {
+        "tag": "h3",
+        "text": "這是 MODUDA KOREAN 品牌介紹頁面。",
+        "page": "https://modudakorean.com/shopinfo/brand_cn.html"
+      },
+      {
+        "tag": "h1",
+        "text": "게시글 신고하기",
+        "page": "https://modudakorean.com/article/notice/1/43/"
+      },
+      {
+        "tag": "h3",
+        "text": "打造屬於自己的韓文教材！",
+        "page": "https://modudakorean.com/article/notice/1/43/"
+      },
+      {
+        "tag": "h2",
+        "text": "MODUDA NEWS",
+        "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+      },
+      {
+        "tag": "h1",
+        "text": "使用條款",
+        "page": "https://modudakorean.com/article/notice/1/35/"
+      },
+      {
+        "tag": "h1",
+        "text": "隱私權政策",
+        "page": "https://modudakorean.com/article/notice/1/35/"
+      },
+      {
+        "tag": "h1",
+        "text": "購物說明",
+        "page": "https://modudakorean.com/article/notice/1/35/"
+      },
+      {
+        "tag": "h3",
+        "text": "使用條款 l 隱私權政策 l 購物說明",
+        "page": "https://modudakorean.com/article/notice/1/35/"
+      },
+      {
+        "tag": "h3",
+        "text": "關於註冊會員",
+        "page": "https://modudakorean.com/article/notice/1/35/"
+      },
+      {
+        "tag": "h3",
+        "text": "關於訂購",
+        "page": "https://modudakorean.com/article/notice/1/35/"
+      },
+      {
+        "tag": "h3",
+        "text": "關於付款",
+        "page": "https://modudakorean.com/article/notice/1/35/"
+      },
+      {
+        "tag": "h3",
+        "text": "關於配送",
+        "page": "https://modudakorean.com/article/notice/1/35/"
+      },
+      {
+        "tag": "h3",
+        "text": "關於退/換貨",
+        "page": "https://modudakorean.com/article/notice/1/35/"
+      },
+      {
+        "tag": "h3",
+        "text": "關於退款",
+        "page": "https://modudakorean.com/article/notice/1/35/"
+      },
+      {
+        "tag": "h3",
+        "text": "모두다 코리안",
+        "page": "https://modudakorean.com/article/notice/1/41/"
+      },
+      {
+        "tag": "h3",
+        "text": "2034~2037",
+        "page": "https://modudakorean.com/shopinfo/company_cn.html"
+      },
+      {
+        "tag": "h3",
+        "text": "2030~2033",
+        "page": "https://modudakorean.com/shopinfo/company_cn.html"
+      },
+      {
+        "tag": "h3",
+        "text": "2026~2029",
+        "page": "https://modudakorean.com/shopinfo/company_cn.html"
+      },
+      {
+        "tag": "h3",
+        "text": "2025",
+        "page": "https://modudakorean.com/shopinfo/company_cn.html"
+      },
+      {
+        "tag": "h3",
+        "text": "2024",
+        "page": "https://modudakorean.com/shopinfo/company_cn.html"
+      },
+      {
+        "tag": "h3",
+        "text": "2023",
+        "page": "https://modudakorean.com/shopinfo/company_cn.html"
+      },
+      {
+        "tag": "h2",
+        "text": "CART",
+        "page": "https://modudakorean.com/order/basket.html"
+      },
+      {
+        "tag": "h2",
+        "text": "FREE BOARD",
+        "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+      },
+      {
+        "tag": "h3",
+        "text": "非會員登入",
+        "page": "https://modudakorean.com/myshop/order/list.html"
+      },
+      {
+        "tag": "h3",
+        "text": "商品詢問",
+        "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+      },
+      {
+        "tag": "h3",
+        "text": "商品評價",
+        "page": "https://modudakorean.com/board/product/list.html?board_no=4"
+      },
+      {
+        "tag": "h2",
+        "text": "在台灣體驗韓國文化(線上‧下)",
+        "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+      },
+      {
+        "tag": "h3",
+        "text": "推薦商品",
+        "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+      },
+      {
+        "tag": "h2",
+        "text": "查找用帳號",
+        "page": "https://modudakorean.com/member/id/find_id.html"
+      },
+      {
+        "tag": "h2",
+        "text": "Join",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "tag": "h3",
+        "text": "기본정보",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "tag": "h3",
+        "text": "附加資訊",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "tag": "h3",
+        "text": "全體同意",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "tag": "h3",
+        "text": "【必需】同意使用條款",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "tag": "h3",
+        "text": "【必需】同意個人資訊收集與使用",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "tag": "h3",
+        "text": "[선택] 개인정보 수집 및 이용 동의",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "tag": "h3",
+        "text": "[선택] 개인정보 제3자 제공 동의",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "tag": "h3",
+        "text": "[선택] 개인정보 처리 위탁 동의",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "tag": "h3",
+        "text": "【選擇】 同意接收購物信息",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "tag": "h3",
+        "text": "가입 정보 확인",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "tag": "h2",
+        "text": "重新找回密碼",
+        "page": "https://modudakorean.com/member/passwd/find_passwd_info.html"
+      },
+      {
+        "tag": "h2",
+        "text": "韓文會話(線上)",
+        "page": "https://modudakorean.com/product/list.html?cate_no=42"
+      },
+      {
+        "tag": "h2",
+        "text": "線下課",
+        "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+      },
+      {
+        "tag": "h3",
+        "text": "MODUDA KOREAN 브랜드소개",
+        "page": "https://modudakorean.com/shopinfo/brand.html"
+      },
+      {
+        "tag": "h3",
+        "text": "moduda korean brand introduction",
+        "page": "https://modudakorean.com/shopinfo/brand_en.html"
+      }
+    ],
+    "cta_buttons": [
+      {
+        "text": "在台灣體驗韓國文化",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "text": "下載免費資料",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "text": "查找",
+        "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+      },
+      {
+        "text": "寫作",
+        "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+      },
+      {
+        "text": "ADD TO CART",
+        "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+      },
+      {
+        "text": "WISH LIST",
+        "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+      },
+      {
+        "text": "SOLD OUT",
+        "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+      },
+      {
+        "text": "옵션選擇",
+        "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+      },
+      {
+        "text": "撰寫商品評論",
+        "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+      },
+      {
+        "text": "查看全部",
+        "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+      },
+      {
+        "text": "提出商品詢問",
+        "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+      },
+      {
+        "text": "LOGIN",
+        "page": "https://modudakorean.com/myshop/wish_list.html"
+      },
+      {
+        "text": "非會員購買",
+        "page": "https://modudakorean.com/myshop/wish_list.html"
+      },
+      {
+        "text": "검색",
+        "page": "https://modudakorean.com/product/list.html?cate_no=43"
+      },
+      {
+        "text": "刪除",
+        "page": "https://modudakorean.com/article/notice/1/43/"
+      },
+      {
+        "text": "點擊推薦",
+        "page": "https://modudakorean.com/article/notice/1/43/"
+      },
+      {
+        "text": "檢舉",
+        "page": "https://modudakorean.com/article/notice/1/43/"
+      },
+      {
+        "text": "屏蔽",
+        "page": "https://modudakorean.com/article/notice/1/43/"
+      },
+      {
+        "text": "取消屏蔽",
+        "page": "https://modudakorean.com/article/notice/1/43/"
+      },
+      {
+        "text": "신고",
+        "page": "https://modudakorean.com/article/notice/1/43/"
+      },
+      {
+        "text": "취소",
+        "page": "https://modudakorean.com/article/notice/1/43/"
+      },
+      {
+        "text": "修改",
+        "page": "https://modudakorean.com/article/notice/1/43/"
+      },
+      {
+        "text": "列表",
+        "page": "https://modudakorean.com/article/notice/1/43/"
+      },
+      {
+        "text": "撰寫回覆",
+        "page": "https://modudakorean.com/article/notice/1/43/"
+      },
+      {
+        "text": "取消",
+        "page": "https://modudakorean.com/article/notice/1/43/"
+      },
+      {
+        "text": "確認",
+        "page": "https://modudakorean.com/article/notice/1/43/"
+      },
+      {
+        "text": "이미지형",
+        "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+      },
+      {
+        "text": "리스트형",
+        "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+      },
+      {
+        "text": "選擇商品訂購",
+        "page": "https://modudakorean.com/order/basket.html"
+      },
+      {
+        "text": "訂購所有商品",
+        "page": "https://modudakorean.com/order/basket.html"
+      },
+      {
+        "text": "變更",
+        "page": "https://modudakorean.com/order/basket.html"
+      },
+      {
+        "text": "查詢",
+        "page": "https://modudakorean.com/myshop/order/list.html"
+      },
+      {
+        "text": "文章",
+        "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+      },
+      {
+        "text": "搜尋",
+        "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+      },
+      {
+        "text": "아이핀인증",
+        "page": "https://modudakorean.com/member/id/find_id.html"
+      },
+      {
+        "text": "휴대폰 인증",
+        "page": "https://modudakorean.com/member/id/find_id.html"
+      },
+      {
+        "text": "확인",
+        "page": "https://modudakorean.com/member/id/find_id.html"
+      },
+      {
+        "text": "ADDR.COMMON.FORMAT\u0004ZIPCODEBTN.TW",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "text": "인증번호받기",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "text": "휴대폰인증",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "text": "중복확인",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "text": "JOIN",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "text": "회원가입",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "text": "닫기",
+        "page": "https://modudakorean.com/member/join.html"
+      },
+      {
+        "text": "i-PIN認證",
+        "page": "https://modudakorean.com/member/passwd/find_passwd_info.html"
+      }
+    ],
+    "hero_texts": [],
+    "meta": [
+      {
+        "type": "description",
+        "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "type": "og:title",
+        "text": "Moduda korean",
+        "page": "https://modudakorean.com"
+      },
+      {
+        "type": "description",
+        "text": "NOTICE 店鋪公告。 | Moduda korean",
+        "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+      },
+      {
+        "type": "og:title",
+        "text": "NOTICE | Moduda korean",
+        "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+      },
+      {
+        "type": "description",
+        "text": "韓文商品頁面, Moduda korean, , 在台灣體驗韓國文化(線上‧下), ,",
+        "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+      },
+      {
+        "type": "og:title",
+        "text": "韓文商品頁面 | Moduda korean",
+        "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+      },
+      {
+        "type": "description",
+        "text": "下載免費資料, Moduda korean, , 在台灣體驗韓國文化(線上‧下), ,",
+        "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+      },
+      {
+        "type": "og:title",
+        "text": "下載免費資料 | Moduda korean",
+        "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+      },
+      {
+        "type": "description",
+        "text": "韓國文化課(線下)",
+        "page": "https://modudakorean.com/product/list.html?cate_no=43"
+      },
+      {
+        "type": "og:title",
+        "text": "韓國文化課(線下) - 韓國文化課(線下) - Moduda korean",
+        "page": "https://modudakorean.com/product/list.html?cate_no=43"
+      },
+      {
+        "type": "description",
+        "text": "打造屬於自己的韓文教材！ NOTICE 店鋪公告。 | Moduda korean",
+        "page": "https://modudakorean.com/article/notice/1/43/"
+      },
+      {
+        "type": "og:title",
+        "text": "打造屬於自己的韓文教材！ NOTICE | Moduda korean",
+        "page": "https://modudakorean.com/article/notice/1/43/"
+      },
+      {
+        "type": "description",
+        "text": "MODUDA NEWS 上傳圖片的空間。 | Moduda korean",
+        "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+      },
+      {
+        "type": "og:title",
+        "text": "MODUDA NEWS | Moduda korean",
+        "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+      },
+      {
+        "type": "description",
+        "text": "使用條款 l 隱私權政策 l 購物說明 NOTICE 店鋪公告。 | Moduda korean",
+        "page": "https://modudakorean.com/article/notice/1/35/"
+      },
+      {
+        "type": "og:title",
+        "text": "使用條款 l 隱私權政策 l 購物說明 NOTICE | Moduda korean",
+        "page": "https://modudakorean.com/article/notice/1/35/"
+      },
+      {
+        "type": "description",
+        "text": "모두다 코리안 NOTICE 店鋪公告。 | Moduda korean",
+        "page": "https://modudakorean.com/article/notice/1/41/"
+      },
+      {
+        "type": "og:title",
+        "text": "모두다 코리안 NOTICE | Moduda korean",
+        "page": "https://modudakorean.com/article/notice/1/41/"
+      },
+      {
+        "type": "description",
+        "text": "FREE BOARD 暢所欲言欄。 | Moduda korean",
+        "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+      },
+      {
+        "type": "og:title",
+        "text": "FREE BOARD | Moduda korean",
+        "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+      },
+      {
+        "type": "description",
+        "text": "商品詢問 商品詢問。 | Moduda korean",
+        "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+      },
+      {
+        "type": "og:title",
+        "text": "商品詢問 | Moduda korean",
+        "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+      },
+      {
+        "type": "description",
+        "text": "商品評價 商品評價。 | Moduda korean",
+        "page": "https://modudakorean.com/board/product/list.html?board_no=4"
+      },
+      {
+        "type": "og:title",
+        "text": "商品評價 | Moduda korean",
+        "page": "https://modudakorean.com/board/product/list.html?board_no=4"
+      },
+      {
+        "type": "description",
+        "text": "在台灣體驗韓國文化(線上‧下)",
+        "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+      },
+      {
+        "type": "og:title",
+        "text": "在台灣體驗韓國文化(線上‧下) - 在台灣體驗韓國文化(線上‧下) - Moduda korean",
+        "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+      },
+      {
+        "type": "description",
+        "text": "韓文課程，新北韓文，",
+        "page": "https://modudakorean.com/product/list.html?cate_no=42"
+      },
+      {
+        "type": "og:description",
+        "text": "韓文會話(線上)",
+        "page": "https://modudakorean.com/product/list.html?cate_no=42"
+      },
+      {
+        "type": "og:title",
+        "text": "韓文會話(線上) - 韓文會話(線上) - Moduda korean",
+        "page": "https://modudakorean.com/product/list.html?cate_no=42"
+      },
+      {
+        "type": "description",
+        "text": "線下課, Moduda korean, , 韓國文化課(線下), ,",
+        "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+      },
+      {
+        "type": "og:title",
+        "text": "線下課 | Moduda korean",
+        "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+      },
+      {
+        "type": "og:title",
+        "text": "- - Moduda korean",
+        "page": "https://modudakorean.com/product/list.html?page=1"
+      }
+    ]
+  },
+  "by_page": {
+    "https://modudakorean.com": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "你的 행복 (幸福) 是什麽？",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h2",
+          "text": "MODUDA KOREAN 致力於推廣全韓語交談的幸福。",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h2",
+          "text": "MODUDA KOREAN 的課程",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h2",
+          "text": "100% 滿意度評論",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h2",
+          "text": "我們會幫助你！",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h2",
+          "text": "更加接近韓國",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h2",
+          "text": "和我們做朋友好嗎？",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h2",
+          "text": "最新商品",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h3",
+          "text": "交談的幸福 ‘MODUDA KOREAN’",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h3",
+          "text": "成就感帶來的幸福",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h3",
+          "text": "全部都是韓語！",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h3",
+          "text": "韓劇、音樂、食物… 都是如此迷人！",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h3",
+          "text": "你現在有了可以一起說韓語的朋友！",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h3",
+          "text": "立即進步",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h3",
+          "text": "你也可以一起說韓語 :)",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h3",
+          "text": "和 MODUDA KOREAN 一起成長。",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h3",
+          "text": "好奇嗎？像問朋友一樣問吧！",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "在台灣體驗韓國文化",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "text": "下載免費資料",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "type": "og:description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com"
+        },
+        {
+          "type": "og:title",
+          "text": "Moduda korean",
+          "page": "https://modudakorean.com"
+        }
+      ]
+    },
+    "https://modudakorean.com/img/review/rm-2.svg": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/img/review/rm-3.svg": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/img/review/rm-5.svg": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/img/review/r-1.svg": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/img/review/rm-7.svg": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/board/free/list.html?board_no=1": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "NOTICE",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+        },
+        {
+          "tag": "h3",
+          "text": "COMMNUNITY",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "查找",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+        },
+        {
+          "text": "寫作",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "NOTICE 店鋪公告。 | Moduda korean",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+        },
+        {
+          "type": "og:description",
+          "text": "NOTICE 店鋪公告。 | Moduda korean",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+        },
+        {
+          "type": "og:title",
+          "text": "NOTICE | Moduda korean",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1"
+        }
+      ]
+    },
+    "https://modudakorean.com/index.html": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "你的 행복 (幸福) 是什麽？",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h2",
+          "text": "MODUDA KOREAN 致力於推廣全韓語交談的幸福。",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h2",
+          "text": "MODUDA KOREAN 的課程",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h2",
+          "text": "100% 滿意度評論",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h2",
+          "text": "我們會幫助你！",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h2",
+          "text": "更加接近韓國",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h2",
+          "text": "和我們做朋友好嗎？",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h2",
+          "text": "最新商品",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h3",
+          "text": "交談的幸福 ‘MODUDA KOREAN’",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h3",
+          "text": "成就感帶來的幸福",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h3",
+          "text": "全部都是韓語！",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h3",
+          "text": "韓劇、音樂、食物… 都是如此迷人！",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h3",
+          "text": "你現在有了可以一起說韓語的朋友！",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h3",
+          "text": "立即進步",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h3",
+          "text": "你也可以一起說韓語 :)",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h3",
+          "text": "和 MODUDA KOREAN 一起成長。",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h3",
+          "text": "好奇嗎？像問朋友一樣問吧！",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/index.html"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "在台灣體驗韓國文化",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "text": "下載免費資料",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/index.html"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "type": "og:description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/index.html"
+        },
+        {
+          "type": "og:title",
+          "text": "Moduda korean",
+          "page": "https://modudakorean.com/index.html"
+        }
+      ]
+    },
+    "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "韓文商品頁面",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "tag": "h3",
+          "text": "이벤트",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "tag": "h3",
+          "text": "商品使用評論",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "tag": "h3",
+          "text": "商品 Q&A",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "ADD TO CART",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "text": "WISH LIST",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "text": "SOLD OUT",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "text": "옵션選擇",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "text": "撰寫商品評論",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "text": "查看全部",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "text": "提出商品詢問",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "韓文商品頁面, Moduda korean, , 在台灣體驗韓國文化(線上‧下), ,",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "type": "og:description",
+          "text": "韓文商品頁面, Moduda korean, , 在台灣體驗韓國文化(線上‧下), ,",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        },
+        {
+          "type": "og:title",
+          "text": "韓文商品頁面 | Moduda korean",
+          "page": "https://modudakorean.com/product/韓文商品頁面/27/category/1/display/3/?icid=MAIN.product_listmain_2"
+        }
+      ]
+    },
+    "https://modudakorean.com/img/review/r-7.svg": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/myshop/wish_list.html": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "LOGIN",
+          "page": "https://modudakorean.com/myshop/wish_list.html"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/myshop/wish_list.html"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/myshop/wish_list.html"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/myshop/wish_list.html"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/myshop/wish_list.html"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/myshop/wish_list.html"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/myshop/wish_list.html"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "LOGIN",
+          "page": "https://modudakorean.com/myshop/wish_list.html"
+        },
+        {
+          "text": "非會員購買",
+          "page": "https://modudakorean.com/myshop/wish_list.html"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/myshop/wish_list.html"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/myshop/wish_list.html"
+        },
+        {
+          "type": "og:description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/myshop/wish_list.html"
+        },
+        {
+          "type": "og:title",
+          "text": "Moduda korean",
+          "page": "https://modudakorean.com/myshop/wish_list.html"
+        }
+      ]
+    },
+    "https://modudakorean.com/img/review/rm-8.svg": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "下載免費資料",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "tag": "h3",
+          "text": "이벤트",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "tag": "h3",
+          "text": "商品使用評論",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "tag": "h3",
+          "text": "商品 Q&A",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "ADD TO CART",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "text": "WISH LIST",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "text": "SOLD OUT",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "text": "옵션選擇",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "text": "撰寫商品評論",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "text": "查看全部",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "text": "提出商品詢問",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "下載免費資料, Moduda korean, , 在台灣體驗韓國文化(線上‧下), ,",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "type": "og:description",
+          "text": "下載免費資料, Moduda korean, , 在台灣體驗韓國文化(線上‧下), ,",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        },
+        {
+          "type": "og:title",
+          "text": "下載免費資料 | Moduda korean",
+          "page": "https://modudakorean.com/product/%E4%B8%8B%E8%BC%89%E5%85%8D%E8%B2%BB%E8%B3%87%E6%96%99/18/category/24/display/1/"
+        }
+      ]
+    },
+    "https://modudakorean.com/img/review/rm-4.svg": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/img/review/r-4.svg": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/product/list.html?cate_no=43": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "韓國文化課(線下)",
+          "page": "https://modudakorean.com/product/list.html?cate_no=43"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/product/list.html?cate_no=43"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/product/list.html?cate_no=43"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/product/list.html?cate_no=43"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/product/list.html?cate_no=43"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/product/list.html?cate_no=43"
+        },
+        {
+          "tag": "h3",
+          "text": "CURRICULUM",
+          "page": "https://modudakorean.com/product/list.html?cate_no=43"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/product/list.html?cate_no=43"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "검색",
+          "page": "https://modudakorean.com/product/list.html?cate_no=43"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/product/list.html?cate_no=43"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "韓國文化課(線下)",
+          "page": "https://modudakorean.com/product/list.html?cate_no=43"
+        },
+        {
+          "type": "og:description",
+          "text": "韓國文化課(線下)",
+          "page": "https://modudakorean.com/product/list.html?cate_no=43"
+        },
+        {
+          "type": "og:title",
+          "text": "韓國文化課(線下) - 韓國文化課(線下) - Moduda korean",
+          "page": "https://modudakorean.com/product/list.html?cate_no=43"
+        }
+      ]
+    },
+    "https://modudakorean.com/img/review/r-3.svg": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/img/review/r-5.svg": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/shopinfo/brand_cn.html": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "ABOUT",
+          "page": "https://modudakorean.com/shopinfo/brand_cn.html"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/shopinfo/brand_cn.html"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/shopinfo/brand_cn.html"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/shopinfo/brand_cn.html"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/shopinfo/brand_cn.html"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/shopinfo/brand_cn.html"
+        },
+        {
+          "tag": "h3",
+          "text": "這是 MODUDA KOREAN 品牌介紹頁面。",
+          "page": "https://modudakorean.com/shopinfo/brand_cn.html"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/shopinfo/brand_cn.html"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/shopinfo/brand_cn.html"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/shopinfo/brand_cn.html"
+        },
+        {
+          "type": "og:description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/shopinfo/brand_cn.html"
+        },
+        {
+          "type": "og:title",
+          "text": "Moduda korean",
+          "page": "https://modudakorean.com/shopinfo/brand_cn.html"
+        }
+      ]
+    },
+    "https://modudakorean.com/board/consult/list.html": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/board/free/write.html?board_no=1": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/article/notice/1/43/": {
+      "headlines": [
+        {
+          "tag": "h1",
+          "text": "게시글 신고하기",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "tag": "h3",
+          "text": "NOTICE",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "tag": "h3",
+          "text": "打造屬於自己的韓文教材！",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "刪除",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "text": "點擊推薦",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "text": "檢舉",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "text": "屏蔽",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "text": "取消屏蔽",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "text": "신고",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "text": "취소",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "text": "修改",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "text": "列表",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "text": "撰寫回覆",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "text": "取消",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "text": "確認",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "打造屬於自己的韓文教材！ NOTICE 店鋪公告。 | Moduda korean",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "type": "og:description",
+          "text": "打造屬於自己的韓文教材！ NOTICE 店鋪公告。 | Moduda korean",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        },
+        {
+          "type": "og:title",
+          "text": "打造屬於自己的韓文教材！ NOTICE | Moduda korean",
+          "page": "https://modudakorean.com/article/notice/1/43/"
+        }
+      ]
+    },
+    "https://modudakorean.com/board/free/list.html?board_no=1&page=1": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "NOTICE",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1&page=1"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1&page=1"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1&page=1"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1&page=1"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1&page=1"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1&page=1"
+        },
+        {
+          "tag": "h3",
+          "text": "COMMNUNITY",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1&page=1"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1&page=1"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "查找",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1&page=1"
+        },
+        {
+          "text": "寫作",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1&page=1"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1&page=1"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "NOTICE 店鋪公告。 | Moduda korean",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1&page=1"
+        },
+        {
+          "type": "og:description",
+          "text": "NOTICE 店鋪公告。 | Moduda korean",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1&page=1"
+        },
+        {
+          "type": "og:title",
+          "text": "NOTICE | Moduda korean",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=1&page=1"
+        }
+      ]
+    },
+    "https://modudakorean.com/board/gallery/list.html?board_no=8": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "MODUDA NEWS",
+          "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+        },
+        {
+          "tag": "h3",
+          "text": "COMMNUNITY",
+          "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "查找",
+          "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+        },
+        {
+          "text": "이미지형",
+          "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+        },
+        {
+          "text": "리스트형",
+          "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+        },
+        {
+          "text": "寫作",
+          "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "MODUDA NEWS 上傳圖片的空間。 | Moduda korean",
+          "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+        },
+        {
+          "type": "og:description",
+          "text": "MODUDA NEWS 上傳圖片的空間。 | Moduda korean",
+          "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+        },
+        {
+          "type": "og:title",
+          "text": "MODUDA NEWS | Moduda korean",
+          "page": "https://modudakorean.com/board/gallery/list.html?board_no=8"
+        }
+      ]
+    },
+    "https://modudakorean.com/article/notice/1/35/": {
+      "headlines": [
+        {
+          "tag": "h1",
+          "text": "使用條款",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h1",
+          "text": "隱私權政策",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h1",
+          "text": "購物說明",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h1",
+          "text": "게시글 신고하기",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h3",
+          "text": "NOTICE",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h3",
+          "text": "使用條款 l 隱私權政策 l 購物說明",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h3",
+          "text": "關於註冊會員",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h3",
+          "text": "關於訂購",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h3",
+          "text": "關於付款",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h3",
+          "text": "關於配送",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h3",
+          "text": "關於退/換貨",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h3",
+          "text": "關於退款",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "刪除",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "text": "點擊推薦",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "text": "檢舉",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "text": "屏蔽",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "text": "取消屏蔽",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "text": "신고",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "text": "취소",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "text": "修改",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "text": "列表",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "text": "撰寫回覆",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "text": "取消",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "text": "確認",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "使用條款 l 隱私權政策 l 購物說明 NOTICE 店鋪公告。 | Moduda korean",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "type": "og:description",
+          "text": "使用條款 l 隱私權政策 l 購物說明 NOTICE 店鋪公告。 | Moduda korean",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        },
+        {
+          "type": "og:title",
+          "text": "使用條款 l 隱私權政策 l 購物說明 NOTICE | Moduda korean",
+          "page": "https://modudakorean.com/article/notice/1/35/"
+        }
+      ]
+    },
+    "https://modudakorean.com/article/notice/1/41/": {
+      "headlines": [
+        {
+          "tag": "h1",
+          "text": "게시글 신고하기",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "tag": "h3",
+          "text": "NOTICE",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "tag": "h3",
+          "text": "모두다 코리안",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "刪除",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "text": "點擊推薦",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "text": "檢舉",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "text": "屏蔽",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "text": "取消屏蔽",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "text": "신고",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "text": "취소",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "text": "修改",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "text": "列表",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "text": "撰寫回覆",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "text": "取消",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "text": "確認",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "모두다 코리안 NOTICE 店鋪公告。 | Moduda korean",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "type": "og:description",
+          "text": "모두다 코리안 NOTICE 店鋪公告。 | Moduda korean",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        },
+        {
+          "type": "og:title",
+          "text": "모두다 코리안 NOTICE | Moduda korean",
+          "page": "https://modudakorean.com/article/notice/1/41/"
+        }
+      ]
+    },
+    "https://modudakorean.com/board/moduda-news/8/": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "MODUDA NEWS",
+          "page": "https://modudakorean.com/board/moduda-news/8/"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/board/moduda-news/8/"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/board/moduda-news/8/"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/board/moduda-news/8/"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/board/moduda-news/8/"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/board/moduda-news/8/"
+        },
+        {
+          "tag": "h3",
+          "text": "COMMNUNITY",
+          "page": "https://modudakorean.com/board/moduda-news/8/"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/board/moduda-news/8/"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "查找",
+          "page": "https://modudakorean.com/board/moduda-news/8/"
+        },
+        {
+          "text": "이미지형",
+          "page": "https://modudakorean.com/board/moduda-news/8/"
+        },
+        {
+          "text": "리스트형",
+          "page": "https://modudakorean.com/board/moduda-news/8/"
+        },
+        {
+          "text": "寫作",
+          "page": "https://modudakorean.com/board/moduda-news/8/"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/board/moduda-news/8/"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "MODUDA NEWS 上傳圖片的空間。 | Moduda korean",
+          "page": "https://modudakorean.com/board/moduda-news/8/"
+        },
+        {
+          "type": "og:description",
+          "text": "MODUDA NEWS 上傳圖片的空間。 | Moduda korean",
+          "page": "https://modudakorean.com/board/moduda-news/8/"
+        },
+        {
+          "type": "og:title",
+          "text": "MODUDA NEWS | Moduda korean",
+          "page": "https://modudakorean.com/board/moduda-news/8/"
+        }
+      ]
+    },
+    "https://modudakorean.com/shopinfo/company_cn.html": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "ABOUT",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        },
+        {
+          "tag": "h3",
+          "text": "2034~2037",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        },
+        {
+          "tag": "h3",
+          "text": "2030~2033",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        },
+        {
+          "tag": "h3",
+          "text": "2026~2029",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        },
+        {
+          "tag": "h3",
+          "text": "2025",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        },
+        {
+          "tag": "h3",
+          "text": "2024",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        },
+        {
+          "tag": "h3",
+          "text": "2023",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        },
+        {
+          "type": "og:description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        },
+        {
+          "type": "og:title",
+          "text": "Moduda korean",
+          "page": "https://modudakorean.com/shopinfo/company_cn.html"
+        }
+      ]
+    },
+    "https://modudakorean.com/order/basket.html": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "CART",
+          "page": "https://modudakorean.com/order/basket.html"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/order/basket.html"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/order/basket.html"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/order/basket.html"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/order/basket.html"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/order/basket.html"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/order/basket.html"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "選擇商品訂購",
+          "page": "https://modudakorean.com/order/basket.html"
+        },
+        {
+          "text": "訂購所有商品",
+          "page": "https://modudakorean.com/order/basket.html"
+        },
+        {
+          "text": "變更",
+          "page": "https://modudakorean.com/order/basket.html"
+        },
+        {
+          "text": "取消",
+          "page": "https://modudakorean.com/order/basket.html"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/order/basket.html"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/order/basket.html"
+        },
+        {
+          "type": "og:description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/order/basket.html"
+        },
+        {
+          "type": "og:title",
+          "text": "Moduda korean",
+          "page": "https://modudakorean.com/order/basket.html"
+        }
+      ]
+    },
+    "https://modudakorean.com/": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "你的 행복 (幸福) 是什麽？",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h2",
+          "text": "MODUDA KOREAN 致力於推廣全韓語交談的幸福。",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h2",
+          "text": "MODUDA KOREAN 的課程",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h2",
+          "text": "100% 滿意度評論",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h2",
+          "text": "我們會幫助你！",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h2",
+          "text": "更加接近韓國",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h2",
+          "text": "和我們做朋友好嗎？",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h2",
+          "text": "最新商品",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h3",
+          "text": "交談的幸福 ‘MODUDA KOREAN’",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h3",
+          "text": "成就感帶來的幸福",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h3",
+          "text": "全部都是韓語！",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h3",
+          "text": "韓劇、音樂、食物… 都是如此迷人！",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h3",
+          "text": "你現在有了可以一起說韓語的朋友！",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h3",
+          "text": "立即進步",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h3",
+          "text": "你也可以一起說韓語 :)",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h3",
+          "text": "和 MODUDA KOREAN 一起成長。",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h3",
+          "text": "好奇嗎？像問朋友一樣問吧！",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "在台灣體驗韓國文化",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "text": "下載免費資料",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "type": "og:description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/"
+        },
+        {
+          "type": "og:title",
+          "text": "Moduda korean",
+          "page": "https://modudakorean.com/"
+        }
+      ]
+    },
+    "https://modudakorean.com/member/login.html": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "LOGIN",
+          "page": "https://modudakorean.com/member/login.html"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/member/login.html"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/member/login.html"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/member/login.html"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/member/login.html"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/member/login.html"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/member/login.html"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "LOGIN",
+          "page": "https://modudakorean.com/member/login.html"
+        },
+        {
+          "text": "非會員購買",
+          "page": "https://modudakorean.com/member/login.html"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/member/login.html"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/member/login.html"
+        },
+        {
+          "type": "og:description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/member/login.html"
+        },
+        {
+          "type": "og:title",
+          "text": "Moduda korean",
+          "page": "https://modudakorean.com/member/login.html"
+        }
+      ]
+    },
+    "https://modudakorean.com/board/free/list.html?board_no=5": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "FREE BOARD",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+        },
+        {
+          "tag": "h3",
+          "text": "COMMNUNITY",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "查找",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+        },
+        {
+          "text": "寫作",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "FREE BOARD 暢所欲言欄。 | Moduda korean",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+        },
+        {
+          "type": "og:description",
+          "text": "FREE BOARD 暢所欲言欄。 | Moduda korean",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+        },
+        {
+          "type": "og:title",
+          "text": "FREE BOARD | Moduda korean",
+          "page": "https://modudakorean.com/board/free/list.html?board_no=5"
+        }
+      ]
+    },
+    "https://modudakorean.com/myshop/order/list.html": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "LOGIN",
+          "page": "https://modudakorean.com/myshop/order/list.html"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/myshop/order/list.html"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/myshop/order/list.html"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/myshop/order/list.html"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/myshop/order/list.html"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/myshop/order/list.html"
+        },
+        {
+          "tag": "h3",
+          "text": "非會員登入",
+          "page": "https://modudakorean.com/myshop/order/list.html"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/myshop/order/list.html"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "查詢",
+          "page": "https://modudakorean.com/myshop/order/list.html"
+        },
+        {
+          "text": "LOGIN",
+          "page": "https://modudakorean.com/myshop/order/list.html"
+        },
+        {
+          "text": "非會員購買",
+          "page": "https://modudakorean.com/myshop/order/list.html"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/myshop/order/list.html"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/myshop/order/list.html"
+        },
+        {
+          "type": "og:description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/myshop/order/list.html"
+        },
+        {
+          "type": "og:title",
+          "text": "Moduda korean",
+          "page": "https://modudakorean.com/myshop/order/list.html"
+        }
+      ]
+    },
+    "https://modudakorean.com/board/notice/1/": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "NOTICE",
+          "page": "https://modudakorean.com/board/notice/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/board/notice/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/board/notice/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/board/notice/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/board/notice/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/board/notice/1/"
+        },
+        {
+          "tag": "h3",
+          "text": "COMMNUNITY",
+          "page": "https://modudakorean.com/board/notice/1/"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/board/notice/1/"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "查找",
+          "page": "https://modudakorean.com/board/notice/1/"
+        },
+        {
+          "text": "寫作",
+          "page": "https://modudakorean.com/board/notice/1/"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/board/notice/1/"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "NOTICE 店鋪公告。 | Moduda korean",
+          "page": "https://modudakorean.com/board/notice/1/"
+        },
+        {
+          "type": "og:description",
+          "text": "NOTICE 店鋪公告。 | Moduda korean",
+          "page": "https://modudakorean.com/board/notice/1/"
+        },
+        {
+          "type": "og:title",
+          "text": "NOTICE | Moduda korean",
+          "page": "https://modudakorean.com/board/notice/1/"
+        }
+      ]
+    },
+    "https://modudakorean.com/img/review/r-9.svg": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/img/review/r-10.svg": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/board/product/write.html?board_no=4&product_no=27&cate_no=1&display_group=3": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/board/product/list.html?board_no=6": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+        },
+        {
+          "tag": "h3",
+          "text": "商品詢問",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "文章",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+        },
+        {
+          "text": "搜尋",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "商品詢問 商品詢問。 | Moduda korean",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+        },
+        {
+          "type": "og:description",
+          "text": "商品詢問 商品詢問。 | Moduda korean",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+        },
+        {
+          "type": "og:title",
+          "text": "商品詢問 | Moduda korean",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=6"
+        }
+      ]
+    },
+    "https://modudakorean.com/board/product/list.html?board_no=4": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=4"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=4"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=4"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=4"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=4"
+        },
+        {
+          "tag": "h3",
+          "text": "商品評價",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=4"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=4"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "文章",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=4"
+        },
+        {
+          "text": "搜尋",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=4"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=4"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "商品評價 商品評價。 | Moduda korean",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=4"
+        },
+        {
+          "type": "og:description",
+          "text": "商品評價 商品評價。 | Moduda korean",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=4"
+        },
+        {
+          "type": "og:title",
+          "text": "商品評價 | Moduda korean",
+          "page": "https://modudakorean.com/board/product/list.html?board_no=4"
+        }
+      ]
+    },
+    "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "在台灣體驗韓國文化(線上‧下)",
+          "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+        },
+        {
+          "tag": "h3",
+          "text": "CURRICULUM",
+          "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+        },
+        {
+          "tag": "h3",
+          "text": "推薦商品",
+          "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "검색",
+          "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "在台灣體驗韓國文化(線上‧下)",
+          "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+        },
+        {
+          "type": "og:description",
+          "text": "在台灣體驗韓國文化(線上‧下)",
+          "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+        },
+        {
+          "type": "og:title",
+          "text": "在台灣體驗韓國文化(線上‧下) - 在台灣體驗韓國文化(線上‧下) - Moduda korean",
+          "page": "https://modudakorean.com/category/在台灣體驗韓國文化線上下/24/"
+        }
+      ]
+    },
+    "https://modudakorean.com/board/product/write.html?board_no=6&product_no=27&cate_no=1&display_group=3": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/member/id/find_id.html": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "查找用帳號",
+          "page": "https://modudakorean.com/member/id/find_id.html"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/member/id/find_id.html"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/member/id/find_id.html"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/member/id/find_id.html"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/member/id/find_id.html"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/member/id/find_id.html"
+        },
+        {
+          "tag": "h3",
+          "text": "查找用帳號",
+          "page": "https://modudakorean.com/member/id/find_id.html"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/member/id/find_id.html"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "아이핀인증",
+          "page": "https://modudakorean.com/member/id/find_id.html"
+        },
+        {
+          "text": "휴대폰 인증",
+          "page": "https://modudakorean.com/member/id/find_id.html"
+        },
+        {
+          "text": "확인",
+          "page": "https://modudakorean.com/member/id/find_id.html"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/member/id/find_id.html"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/member/id/find_id.html"
+        },
+        {
+          "type": "og:description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/member/id/find_id.html"
+        },
+        {
+          "type": "og:title",
+          "text": "Moduda korean",
+          "page": "https://modudakorean.com/member/id/find_id.html"
+        }
+      ]
+    },
+    "https://modudakorean.com/member/join.html": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "Join",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "tag": "h3",
+          "text": "기본정보",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "tag": "h3",
+          "text": "附加資訊",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "tag": "h3",
+          "text": "全體同意",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "tag": "h3",
+          "text": "【必需】同意使用條款",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "tag": "h3",
+          "text": "【必需】同意個人資訊收集與使用",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "tag": "h3",
+          "text": "[선택] 개인정보 수집 및 이용 동의",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "tag": "h3",
+          "text": "[선택] 개인정보 제3자 제공 동의",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "tag": "h3",
+          "text": "[선택] 개인정보 처리 위탁 동의",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "tag": "h3",
+          "text": "【選擇】 同意接收購物信息",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "tag": "h3",
+          "text": "가입 정보 확인",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/member/join.html"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "ADDR.COMMON.FORMAT\u0004ZIPCODEBTN.TW",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "text": "인증번호받기",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "text": "확인",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "text": "아이핀인증",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "text": "휴대폰인증",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "text": "중복확인",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "text": "JOIN",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "text": "회원가입",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "text": "닫기",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/member/join.html"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "type": "og:description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/member/join.html"
+        },
+        {
+          "type": "og:title",
+          "text": "Moduda korean",
+          "page": "https://modudakorean.com/member/join.html"
+        }
+      ]
+    },
+    "https://modudakorean.com/member/passwd/find_passwd_info.html": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "重新找回密碼",
+          "page": "https://modudakorean.com/member/passwd/find_passwd_info.html"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/member/passwd/find_passwd_info.html"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/member/passwd/find_passwd_info.html"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/member/passwd/find_passwd_info.html"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/member/passwd/find_passwd_info.html"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/member/passwd/find_passwd_info.html"
+        },
+        {
+          "tag": "h3",
+          "text": "重新找回密碼",
+          "page": "https://modudakorean.com/member/passwd/find_passwd_info.html"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/member/passwd/find_passwd_info.html"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "i-PIN認證",
+          "page": "https://modudakorean.com/member/passwd/find_passwd_info.html"
+        },
+        {
+          "text": "確認",
+          "page": "https://modudakorean.com/member/passwd/find_passwd_info.html"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/member/passwd/find_passwd_info.html"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/member/passwd/find_passwd_info.html"
+        },
+        {
+          "type": "og:description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/member/passwd/find_passwd_info.html"
+        },
+        {
+          "type": "og:title",
+          "text": "Moduda korean",
+          "page": "https://modudakorean.com/member/passwd/find_passwd_info.html"
+        }
+      ]
+    },
+    "https://modudakorean.com/product/list.html?cate_no=42": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "韓文會話(線上)",
+          "page": "https://modudakorean.com/product/list.html?cate_no=42"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/product/list.html?cate_no=42"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/product/list.html?cate_no=42"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/product/list.html?cate_no=42"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/product/list.html?cate_no=42"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/product/list.html?cate_no=42"
+        },
+        {
+          "tag": "h3",
+          "text": "CURRICULUM",
+          "page": "https://modudakorean.com/product/list.html?cate_no=42"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/product/list.html?cate_no=42"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "검색",
+          "page": "https://modudakorean.com/product/list.html?cate_no=42"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/product/list.html?cate_no=42"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "韓文課程，新北韓文，",
+          "page": "https://modudakorean.com/product/list.html?cate_no=42"
+        },
+        {
+          "type": "og:description",
+          "text": "韓文會話(線上)",
+          "page": "https://modudakorean.com/product/list.html?cate_no=42"
+        },
+        {
+          "type": "og:title",
+          "text": "韓文會話(線上) - 韓文會話(線上) - Moduda korean",
+          "page": "https://modudakorean.com/product/list.html?cate_no=42"
+        }
+      ]
+    },
+    "https://modudakorean.com/product/list.html?cate_no=24": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "在台灣體驗韓國文化(線上‧下)",
+          "page": "https://modudakorean.com/product/list.html?cate_no=24"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/product/list.html?cate_no=24"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/product/list.html?cate_no=24"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/product/list.html?cate_no=24"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/product/list.html?cate_no=24"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/product/list.html?cate_no=24"
+        },
+        {
+          "tag": "h3",
+          "text": "CURRICULUM",
+          "page": "https://modudakorean.com/product/list.html?cate_no=24"
+        },
+        {
+          "tag": "h3",
+          "text": "推薦商品",
+          "page": "https://modudakorean.com/product/list.html?cate_no=24"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/product/list.html?cate_no=24"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "검색",
+          "page": "https://modudakorean.com/product/list.html?cate_no=24"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/product/list.html?cate_no=24"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "在台灣體驗韓國文化(線上‧下)",
+          "page": "https://modudakorean.com/product/list.html?cate_no=24"
+        },
+        {
+          "type": "og:description",
+          "text": "在台灣體驗韓國文化(線上‧下)",
+          "page": "https://modudakorean.com/product/list.html?cate_no=24"
+        },
+        {
+          "type": "og:title",
+          "text": "在台灣體驗韓國文化(線上‧下) - 在台灣體驗韓國文化(線上‧下) - Moduda korean",
+          "page": "https://modudakorean.com/product/list.html?cate_no=24"
+        }
+      ]
+    },
+    "https://modudakorean.com/board/free-board/5/": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "FREE BOARD",
+          "page": "https://modudakorean.com/board/free-board/5/"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/board/free-board/5/"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/board/free-board/5/"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/board/free-board/5/"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/board/free-board/5/"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/board/free-board/5/"
+        },
+        {
+          "tag": "h3",
+          "text": "COMMNUNITY",
+          "page": "https://modudakorean.com/board/free-board/5/"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/board/free-board/5/"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "查找",
+          "page": "https://modudakorean.com/board/free-board/5/"
+        },
+        {
+          "text": "寫作",
+          "page": "https://modudakorean.com/board/free-board/5/"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/board/free-board/5/"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "FREE BOARD 暢所欲言欄。 | Moduda korean",
+          "page": "https://modudakorean.com/board/free-board/5/"
+        },
+        {
+          "type": "og:description",
+          "text": "FREE BOARD 暢所欲言欄。 | Moduda korean",
+          "page": "https://modudakorean.com/board/free-board/5/"
+        },
+        {
+          "type": "og:title",
+          "text": "FREE BOARD | Moduda korean",
+          "page": "https://modudakorean.com/board/free-board/5/"
+        }
+      ]
+    },
+    "https://modudakorean.com/board/product/write.html?board_no=6&product_no=18&cate_no=24&display_group=1": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/board/product/write.html?board_no=4&product_no=18&cate_no=24&display_group=1": {
+      "headlines": [],
+      "cta_buttons": [],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": []
+    },
+    "https://modudakorean.com/product/線下課/24/category/43/display/1/": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "線下課",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "tag": "h3",
+          "text": "이벤트",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "tag": "h3",
+          "text": "商品使用評論",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "tag": "h3",
+          "text": "商品 Q&A",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "ADD TO CART",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "text": "WISH LIST",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "text": "SOLD OUT",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "text": "옵션選擇",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "text": "撰寫商品評論",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "text": "查看全部",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "text": "提出商品詢問",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "線下課, Moduda korean, , 韓國文化課(線下), ,",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "type": "og:description",
+          "text": "線下課, Moduda korean, , 韓國文化課(線下), ,",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        },
+        {
+          "type": "og:title",
+          "text": "線下課 | Moduda korean",
+          "page": "https://modudakorean.com/product/線下課/24/category/43/display/1/"
+        }
+      ]
+    },
+    "https://modudakorean.com/product/list.html?page=1": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/product/list.html?page=1"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/product/list.html?page=1"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/product/list.html?page=1"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/product/list.html?page=1"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/product/list.html?page=1"
+        },
+        {
+          "tag": "h3",
+          "text": "CURRICULUM",
+          "page": "https://modudakorean.com/product/list.html?page=1"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/product/list.html?page=1"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "검색",
+          "page": "https://modudakorean.com/product/list.html?page=1"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/product/list.html?page=1"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "og:title",
+          "text": "- - Moduda korean",
+          "page": "https://modudakorean.com/product/list.html?page=1"
+        }
+      ]
+    },
+    "https://modudakorean.com/product/線下課/23/category/43/display/1/": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "線下課",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "tag": "h3",
+          "text": "이벤트",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "tag": "h3",
+          "text": "商品使用評論",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "tag": "h3",
+          "text": "商品 Q&A",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "ADD TO CART",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "text": "WISH LIST",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "text": "SOLD OUT",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "text": "옵션選擇",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "text": "撰寫商品評論",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "text": "查看全部",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "text": "提出商品詢問",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "線下課, Moduda korean, , 韓國文化課(線下), ,",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "type": "og:description",
+          "text": "線下課, Moduda korean, , 韓國文化課(線下), ,",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        },
+        {
+          "type": "og:title",
+          "text": "線下課 | Moduda korean",
+          "page": "https://modudakorean.com/product/線下課/23/category/43/display/1/"
+        }
+      ]
+    },
+    "https://modudakorean.com/shopinfo/brand.html": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "ABOUT",
+          "page": "https://modudakorean.com/shopinfo/brand.html"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/shopinfo/brand.html"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/shopinfo/brand.html"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/shopinfo/brand.html"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/shopinfo/brand.html"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/shopinfo/brand.html"
+        },
+        {
+          "tag": "h3",
+          "text": "MODUDA KOREAN 브랜드소개",
+          "page": "https://modudakorean.com/shopinfo/brand.html"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/shopinfo/brand.html"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/shopinfo/brand.html"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/shopinfo/brand.html"
+        },
+        {
+          "type": "og:description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/shopinfo/brand.html"
+        },
+        {
+          "type": "og:title",
+          "text": "Moduda korean",
+          "page": "https://modudakorean.com/shopinfo/brand.html"
+        }
+      ]
+    },
+    "https://modudakorean.com/shopinfo/brand_en.html": {
+      "headlines": [
+        {
+          "tag": "h2",
+          "text": "ABOUT",
+          "page": "https://modudakorean.com/shopinfo/brand_en.html"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "page": "https://modudakorean.com/shopinfo/brand_en.html"
+        },
+        {
+          "tag": "h2",
+          "text": "Duda korean",
+          "page": "https://modudakorean.com/shopinfo/brand_en.html"
+        },
+        {
+          "tag": "h2",
+          "text": "SNS",
+          "page": "https://modudakorean.com/shopinfo/brand_en.html"
+        },
+        {
+          "tag": "h2",
+          "text": "MESSAGE",
+          "page": "https://modudakorean.com/shopinfo/brand_en.html"
+        },
+        {
+          "tag": "h2",
+          "text": "KEYWORD",
+          "page": "https://modudakorean.com/shopinfo/brand_en.html"
+        },
+        {
+          "tag": "h3",
+          "text": "moduda korean brand introduction",
+          "page": "https://modudakorean.com/shopinfo/brand_en.html"
+        },
+        {
+          "tag": "h3",
+          "text": "WORLD SHIPPING",
+          "page": "https://modudakorean.com/shopinfo/brand_en.html"
+        }
+      ],
+      "cta_buttons": [
+        {
+          "text": "GO",
+          "page": "https://modudakorean.com/shopinfo/brand_en.html"
+        }
+      ],
+      "navigation": [],
+      "hero_texts": [],
+      "meta": [
+        {
+          "type": "description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/shopinfo/brand_en.html"
+        },
+        {
+          "type": "og:description",
+          "text": "Moduda korean Store | 在台灣體驗韓國文化(線上‧下）, 韓文會話, 韓國文化課",
+          "page": "https://modudakorean.com/shopinfo/brand_en.html"
+        },
+        {
+          "type": "og:title",
+          "text": "Moduda korean",
+          "page": "https://modudakorean.com/shopinfo/brand_en.html"
+        }
+      ]
+    }
+  }
+}
